@@ -1,0 +1,3 @@
+Main-Class: Client.Client 
+Classpath: postgresql-42.3.5.jar
+
